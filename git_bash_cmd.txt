@@ -1,0 +1,6 @@
+		cmd		git bash
+상위 폴더		cd.. cd ..		cd ..
+드라이브 변경	D: 		cd /D
+		cd D:			
+위치 확인 			pwd
+	
