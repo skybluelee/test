@@ -3,4 +3,5 @@
 드라이브 변경	D: 		cd /D
 		cd D:			
 위치 확인 			pwd
+복붙		Ctrl C+V		Shift + Insert
 	
