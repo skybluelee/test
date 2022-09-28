@@ -1,0 +1,6 @@
+브랜치 생성: git branch 브랜치이름
+브랜치 변경: git checkout 브랜치이름
+자료 상태 확인: git status
+연결 확인: git remote -v
+연결 해제: git remote remove 이름
+연결 추가: git remote add 이름
