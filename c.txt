@@ -1,0 +1,2 @@
+브랜치 생성: git branch 브랜치이름
+브랜치 변경: git checkout 브랜치이름
